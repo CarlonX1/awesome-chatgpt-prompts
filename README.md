@@ -784,6 +784,10 @@ Contributed by: [@TheLime1](https://github.com/TheLime1)
 Contributed by [@lemorage](https://github.com/lemorage)
 > I want you to act as a `language` literary critic. I will provide you with some excerpts from literature work. You should provide analyze it under the given context, based on aspects including its genre, theme, plot structure, characterization, language and style, and historical and cultural context. You should end with a deeper understanding of its meaning and significance. My first request is "To be or not to be, that is the question."
 
+## Emoji generator
+contributed by: [@CarlonX1](https://github.com/CarlonX1)
+>Now you and I can't communicate using words, only emojis, so let's try to have a conversation about [INSERT ANY TOPIC HERE], please don't try to explain the emojis, please avoid using words.
+
 
 ## Contributors 😍
 
